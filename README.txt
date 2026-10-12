@@ -1,15 +1,15 @@
-MUHAMMED SHAZIN C — Founder & Website Developer Portfolio
+MUHAMMED SHAZIN C — Personal Portfolio
 
-HOW TO OPEN
-1. Keep index.html, styles.css, script.js, tech-emblem.jpg, and favicon.png together.
-2. Open index.html in any modern browser. No installation or server is required.
-3. Click CONTINUE to enter the website.
+Files:
+- index.html: website structure and content
+- styles.css: responsive styling and day/dark themes
+- script.js: interactions, navigation, theme switcher and reveal effects
+- tech-emblem.svg: profile emblem
 
-FEATURES
-- Founder and website developer portfolio
-- Services section featuring Website Developer
-- Responsive layout for mobile and desktop
-- Dark/day theme switcher; the selected theme is saved when browser storage is available
-- Contact links for Gmail, Instagram, and WhatsApp
+Open index.html in a modern browser to preview locally.
 
-The website uses HTML, CSS, and vanilla JavaScript. Google Fonts is optional and requires internet; built-in fallback fonts work offline. The chip image is a decorative technology emblem, not a personal photograph.
+Work project link:
+https://www.snakegames.duckdns.org
+
+To publish, upload all files in this folder to your web host's public web directory.
+The website link above is included as a portfolio project link; DNS/hosting availability is managed separately.
